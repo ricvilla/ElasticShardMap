@@ -1,0 +1,8 @@
+C:\Projects\ElasticShardMap\ElasticShardMap\bin\Debug\ElasticShardMap.exe.config
+C:\Projects\ElasticShardMap\ElasticShardMap\bin\Debug\ElasticShardMap.exe
+C:\Projects\ElasticShardMap\ElasticShardMap\bin\Debug\ElasticShardMap.pdb
+C:\Projects\ElasticShardMap\ElasticShardMap\bin\Debug\Microsoft.Azure.SqlDatabase.ElasticScale.Client.dll
+C:\Projects\ElasticShardMap\ElasticShardMap\bin\Debug\Microsoft.Azure.SqlDatabase.ElasticScale.Client.xml
+C:\Projects\ElasticShardMap\ElasticShardMap\obj\Debug\ElasticShardMap.csprojResolveAssemblyReference.cache
+C:\Projects\ElasticShardMap\ElasticShardMap\obj\Debug\ElasticShardMap.exe
+C:\Projects\ElasticShardMap\ElasticShardMap\obj\Debug\ElasticShardMap.pdb
